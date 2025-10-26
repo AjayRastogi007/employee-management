@@ -1,0 +1,63 @@
+/react-frontend/.parcel-cache
+/react-frontend/dist
+/react-frontend/node_modules
+
+# Maven / Java
+/target/
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.log
+
+# Maven wrapper
+/.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ
+/.idea/
+*.iml
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test and build outputs
+/build/
+
+# Others
+*.swp
+*.swo
+
+# Environment files
+.env
+
+# Spring Boot devtools (if used)
+/spring-boot-devtools.properties
+
+# Ignore generated Eclipse/IDE files
+bin/
+
+# Ignore Gradle caches (if present)
+.gradle/
+
+# Ignore logs
+*.log
+
+# local application properties, secrets
+src/main/resources/application-local.properties
+src/main/resources/application-dev.properties
+
+# Avoid accidentally committing IntelliJ run configs
+runConfigurations/
