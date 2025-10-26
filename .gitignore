@@ -1,7 +1,3 @@
-/react-frontend/.parcel-cache
-/react-frontend/dist
-/react-frontend/node_modules
-
 # Maven / Java
 /target/
 *.class
